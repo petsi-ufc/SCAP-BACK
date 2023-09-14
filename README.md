@@ -18,7 +18,7 @@ This project is an API built using **Java, Java Spring, Flyway Migrations, Postg
 - [Contributing](#contributing)
 
 ## Installation
-0. Clone aqui
+0. Clone aquii
 1. Clone the repository:
 
 ```bash
