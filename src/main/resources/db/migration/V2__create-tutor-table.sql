@@ -1,0 +1,12 @@
+CREATE TABLE tutor (
+    ID INTEGER PRIMARY KEY UNIQUE NOT NULL,
+    Nome_tutor VARCHAR NOT NULL,
+    SIAPE NUMERIC UNIQUE NOT NULL,
+    Titulacao VARCHAR NOT NULL,
+    Campus_do_tutor VARCHAR NOT NULL,
+    Nome_bolsa VARCHAR NOT NULL,
+    Dt_nascimento VARCHAR NOT NULL,
+    Telefone VARCHAR UNIQUE NOT NULL,
+    Foto VARCHAR
+
+);
